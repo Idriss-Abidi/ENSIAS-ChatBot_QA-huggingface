@@ -1,7 +1,7 @@
 # ENSIAS Chatbot
 
 This application implements a chatbot for answering questions about ENSIAS (National School of Computer Science and Systems Analysis) using Streamlit and the Transformers library by Hugging Face.
-![Interface](relative%20./images/app.png?raw=true "Title")
+![Interface](./images/app.png?raw=true "Title")
 ## Features
 
 The chatbot can answer questions on the following topics:
