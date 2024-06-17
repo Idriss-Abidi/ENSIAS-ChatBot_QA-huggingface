@@ -5,7 +5,7 @@ This application implements a chatbot for answering questions about ENSIAS (Nati
 ## Features
 
 The chatbot can answer questions on the following topics:
-
+![Interface](./images/Context.png?raw=true "Title")
 ### Information about ENSIAS
 - What is ENSIAS?
 - When was ENSIAS founded?
