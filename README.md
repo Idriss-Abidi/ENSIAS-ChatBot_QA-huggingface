@@ -38,7 +38,7 @@ The chatbot can answer questions on the following topics:
 - When did Ms. Ilham Berrada become the director of ENSIAS?
 - What is the role of Ms. Ilham Berrada at ENSIAS?
 
-![Interface](./images/App.png?raw=true "Title")
+![Interface](./images/app.png?raw=true "Title")
 
 ## Installation
 
