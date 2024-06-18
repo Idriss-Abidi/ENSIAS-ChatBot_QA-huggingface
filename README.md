@@ -52,13 +52,13 @@ The chatbot can answer questions on the following topics:
 <img src="./images/app_6.png" alt="Interface" width="600">
 
 
-## Installation
+**## Installation
 
 1. Clone this repository:
     ```bash
     git clone https://github.com/Idriss-Abidi/QA_BertBasedModel.git
     cd QA_BertBasedModel
-    ```
+    ```**
 
 2. Install the required packages:
     ```bash
