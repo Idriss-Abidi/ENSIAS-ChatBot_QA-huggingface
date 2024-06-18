@@ -78,13 +78,16 @@ The chatbot can answer questions on the following topics:
 ## Running the Application
 
 1. Navigate to the directory containing the `main.py` file.
+    ```bash
+    cd src
+    ```
 
-2. Run the Streamlit app:
+3. Run the Streamlit app:
     ```bash
     streamlit run main.py
     ```
 
-3. Open your web browser and go to the URL provided by Streamlit, typically `http://localhost:8501`.
+4. Open your web browser and go to the URL provided by Streamlit, typically `http://localhost:8501`.
 
 ## File Structure
 
