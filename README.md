@@ -19,8 +19,8 @@ The chatbot can answer questions on the following topics:
 - What programs does ENSIAS offer?
 
 <img src="./images/app_1.png" alt="Interface" width="600">
-![Interface](./images/app_2.png?raw=true "Title")
-![Interface](./images/app_3.png?raw=true "Title")
+<img src="./images/app_2.png" alt="Interface" width="600">
+<img src="./images/app_3.png" alt="Interface" width="600">
 
 ### Study Fields of ENSIAS
 - How many study fields are available to engineering students at ENSIAS?
@@ -35,20 +35,20 @@ The chatbot can answer questions on the following topics:
 - What does 2SCL stand for?
 - What does SSE stand for?
 
-![Interface](./images/app_4.png?raw=true "Title")
+<img src="./images/app_4.png" alt="Interface" width="600">
 
 ### Admission to ENSIAS
 - How competitive is admission to ENSIAS?
 - What determines admission to ENSIAS?
   
-![Interface](./images/app_5.png?raw=true "Title")
+<img src="./images/app_5.png" alt="Interface" width="600">
 
 ### Information about the Director
 - Who is the current director of ENSIAS?
 - When did Ms. Ilham Berrada become the director of ENSIAS?
 - What is the role of Ms. Ilham Berrada at ENSIAS?
 
-![Interface](./images/app_6.png?raw=true "Title")
+<img src="./images/app_6.png" alt="Interface" width="600">
 
 
 ## Installation
