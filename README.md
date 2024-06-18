@@ -13,7 +13,8 @@ A question-answering pipeline is a model that takes a question and a context as 
 <div align="center">
     <img src="./images/app.png" alt="Interface" width="500">
 </div>
-## Features
+
+# Features
 
 The chatbot can answer questions on the following topics:
 ![Interface](./images/Context.png?raw=true "Title")
