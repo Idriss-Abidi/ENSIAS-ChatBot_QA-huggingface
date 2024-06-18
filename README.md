@@ -18,7 +18,7 @@ The chatbot can answer questions on the following topics:
 - Where is ENSIAS located?
 - What programs does ENSIAS offer?
 
-![Interface](./images/app_1.png?raw=true "Title")
+<img src="./images/app_1.png" alt="Interface" width="600">
 ![Interface](./images/app_2.png?raw=true "Title")
 ![Interface](./images/app_3.png?raw=true "Title")
 
