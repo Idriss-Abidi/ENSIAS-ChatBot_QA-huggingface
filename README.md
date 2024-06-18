@@ -6,7 +6,7 @@ The core functionality of the chatbot is built around the Hugging Face question-
 
 ![Interface](./images/HuggingFace_QApipeline.png?raw=true "Title")
 
-![Interface](./images/app.png?raw=true "Title")
+<img src="./images/app.png" alt="Interface" width="600">
 
 ## Features
 
