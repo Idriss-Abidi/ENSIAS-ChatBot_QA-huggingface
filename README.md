@@ -93,6 +93,7 @@ The chatbot can answer questions on the following topics:
 
 - `main.py`: The main script to run the Streamlit chatbot application.
 - `requirements.txt`: List of Python packages required for this project.
+- `Detailed_Approach.py`: Demonstrates how to use the Hugging Face transformers library to create a question-answering model.
 
 ## Usage
 
