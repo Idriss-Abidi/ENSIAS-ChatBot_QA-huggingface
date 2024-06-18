@@ -52,7 +52,7 @@ The chatbot can answer questions on the following topics:
 <img src="./images/app_6.png" alt="Interface" width="600">
 
 
-**## Installation
+## Installation
 
 1. Clone this repository:
     ```bash
