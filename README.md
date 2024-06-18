@@ -6,6 +6,8 @@ The core functionality of the chatbot is built around the Hugging Face question-
 
 ![Interface](./images/HuggingFace_QApipeline.png?raw=true "Title")
 
+![Interface](./images/app.png?raw=true "Title")
+
 ## Features
 
 The chatbot can answer questions on the following topics:
@@ -15,6 +17,10 @@ The chatbot can answer questions on the following topics:
 - When was ENSIAS founded?
 - Where is ENSIAS located?
 - What programs does ENSIAS offer?
+
+![Interface](./images/app_1.png?raw=true "Title")
+![Interface](./images/app_2.png?raw=true "Title")
+![Interface](./images/app_3.png?raw=true "Title")
 
 ### Study Fields of ENSIAS
 - How many study fields are available to engineering students at ENSIAS?
@@ -29,16 +35,21 @@ The chatbot can answer questions on the following topics:
 - What does 2SCL stand for?
 - What does SSE stand for?
 
+![Interface](./images/app_4.png?raw=true "Title")
+
 ### Admission to ENSIAS
 - How competitive is admission to ENSIAS?
 - What determines admission to ENSIAS?
+  
+![Interface](./images/app_5.png?raw=true "Title")
 
 ### Information about the Director
 - Who is the current director of ENSIAS?
 - When did Ms. Ilham Berrada become the director of ENSIAS?
 - What is the role of Ms. Ilham Berrada at ENSIAS?
 
-![Interface](./images/app.png?raw=true "Title")
+![Interface](./images/app_6.png?raw=true "Title")
+
 
 ## Installation
 
