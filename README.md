@@ -1,6 +1,6 @@
 # ENSIAS Chatbot
 
-This chatbot uses Streamlit and the Hugging Face Transformers library to answer questions about ENSIAS (National School of Computer Science and Systems Analysis).
+This simple chatbot uses Streamlit and the Hugging Face Transformers library to answer questions about ENSIAS (National School of Computer Science and Systems Analysis).
 
 Powered by the Hugging Face question-answering pipeline, it delivers precise responses to user queries based on provided context, enhancing user interaction and accessibility.
 
