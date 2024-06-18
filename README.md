@@ -1,8 +1,12 @@
 # ENSIAS Chatbot
 
-This application implements a chatbot for answering questions about ENSIAS (National School of Computer Science and Systems Analysis) using Streamlit and the Transformers library by Hugging Face.
+This chatbot uses Streamlit and the Hugging Face Transformers library to answer questions about ENSIAS (National School of Computer Science and Systems Analysis).
 
-The core functionality of the chatbot is built around the Hugging Face question-answering pipeline. This pipeline simplifies the implementation of natural language processing (NLP) tasks by leveraging pre-trained models, allowing for high-quality answers to user questions based on the provided context.
+Powered by the Hugging Face question-answering pipeline, it delivers precise responses to user queries based on provided context, enhancing user interaction and accessibility.
+
+# What is a Question-Answering Pipeline?
+
+A question-answering pipeline is a model that takes a question and a context as inputs and returns an answer derived from the context. It utilizes pre-trained models, such as those fine-tuned on the SQuAD (Stanford Question Answering Dataset) to understand and extract the most relevant information from the given context to answer the question.
 
 ![Interface](./images/HuggingFace_QApipeline.png?raw=true "Title")
 
