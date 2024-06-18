@@ -58,7 +58,7 @@ The chatbot can answer questions on the following topics:
     ```bash
     git clone https://github.com/Idriss-Abidi/QA_BertBasedModel.git
     cd QA_BertBasedModel
-    ```**
+    ```
 
 2. Install the required packages:
     ```bash
