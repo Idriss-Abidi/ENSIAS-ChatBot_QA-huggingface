@@ -1,7 +1,11 @@
 # ENSIAS Chatbot
 
 This application implements a chatbot for answering questions about ENSIAS (National School of Computer Science and Systems Analysis) using Streamlit and the Transformers library by Hugging Face.
+
+The core functionality of the chatbot is built around the Hugging Face question-answering pipeline. This pipeline simplifies the implementation of natural language processing (NLP) tasks by leveraging pre-trained models, allowing for high-quality answers to user questions based on the provided context.
+
 ![Interface](./images/HuggingFace_QApipeline.png?raw=true "Title")
+
 ## Features
 
 The chatbot can answer questions on the following topics:
@@ -33,6 +37,8 @@ The chatbot can answer questions on the following topics:
 - Who is the current director of ENSIAS?
 - When did Ms. Ilham Berrada become the director of ENSIAS?
 - What is the role of Ms. Ilham Berrada at ENSIAS?
+
+![Interface](./images/App.png?raw=true "Title")
 
 ## Installation
 
