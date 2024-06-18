@@ -55,8 +55,8 @@ The chatbot can answer questions on the following topics:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/ensias-chatbot.git
-    cd ensias-chatbot
+    git clone https://github.com/Idriss-Abidi/QA_BertBasedModel.git
+    cd QA_BertBasedModel
     ```
 
 2. Install the required packages:
