@@ -61,8 +61,8 @@ The chatbot can answer questions on the following topics:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Idriss-Abidi/QA_BertBasedModel.git
-    cd QA_BertBasedModel
+    git clone https://github.com/Idriss-Abidi/ENSIAS-ChatBot_QA-huggingface.git
+    cd ENSIAS-ChatBot_QA-huggingface
     ```
 
 2. Install the required packages:
